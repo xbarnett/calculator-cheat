@@ -1,0 +1,6 @@
+Start: 2
+Goals: [110, 20]
+Moves: 2
+Buttons: [|INSERT 1|, |+ 8|]
+Portal: None
+[[(|+ 8|, 0), (|INSERT 1|, 1)], [(|INSERT 1|, 1), (|+ 8|, 0)]]

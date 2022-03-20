@@ -1,0 +1,6 @@
+Start: 1234
+Goals: [23]
+Moves: 2
+Buttons: [|CUT 1|, |<<|]
+Portal: None
+[[(|CUT 1|, 0), (|<<|, 0)]]

@@ -1,0 +1,6 @@
+Start: 6
+Goals: [2, 'PI', 'R']
+Moves: 3
+Buttons: [|ABC|, |3|, |/ 3|]
+Portal: None
+[[(|/ 3|, 0)], [(|3|, 0), (|ABC|, 0)], [(|ABC|, 0)]]

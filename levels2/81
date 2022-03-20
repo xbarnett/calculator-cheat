@@ -1,0 +1,6 @@
+Start: 123
+Goals: [120, 100]
+Moves: 1
+Buttons: [|ROUND|]
+Portal: None
+[[(|ROUND|, 1)], [(|ROUND|, 2)]]

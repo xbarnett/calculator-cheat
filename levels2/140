@@ -1,0 +1,6 @@
+Start: 53577
+Goals: ['PLUS', 'MINUS']
+Moves: 4
+Buttons: [|ABC|, |DELETE|, [_+ 1]]
+Portal: None
+[[(|DELETE|, 2), ([_+ 1], 2), ([_+ 1], 3), (|ABC|, 0)], [(|ABC|, 0)]]

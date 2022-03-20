@@ -1,0 +1,6 @@
+Start: 2024
+Goals: [2222]
+Moves: 2
+Buttons: [[_+ 2], [_- 2]]
+Portal: None
+[[([_+ 2], 2), ([_- 2], 0)]]

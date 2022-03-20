@@ -1,0 +1,6 @@
+Start: 735
+Goals: ['COS', 'SIN']
+Moves: 3
+Buttons: [|ABC|, |/ 5|, |+ 10|]
+Portal: None
+[[(|/ 5|, 0), (|+ 10|, 0), (|ABC|, 0)], [(|ABC|, 0)]]

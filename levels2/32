@@ -1,0 +1,6 @@
+Start: 215
+Goals: [256]
+Moves: 3
+Buttons: [|SORT >|, |* 5|]
+Portal: None
+[[(|SORT >|, 0), (|* 5|, 0), (|SORT >|, 0)]]

@@ -1,0 +1,6 @@
+Start: 12
+Goals: [2222, 1111]
+Moves: 3
+Buttons: [[Lock], |Mirror|, |Reverse|]
+Portal: None
+[[([Lock], 0), (|Reverse|, 0), (|Mirror|, 0)], [([Lock], 1), (|Reverse|, 0), (|Mirror|, 0)]]

@@ -1,0 +1,6 @@
+Start: 152
+Goals: [305, 202, 125]
+Moves: 5
+Buttons: [[SHIFT], |+ 2|, |Reverse|, |ROUND|]
+Portal: None
+[[(|ROUND|, 1), ([SHIFT], 1), (|+ 2|, 0), (|Reverse|, 0)], [(|ROUND|, 2), (|+ 2|, 0)], [([SHIFT], 1), (|Reverse|, 0)]]

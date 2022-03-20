@@ -1,0 +1,6 @@
+Start: 56
+Goals: [50, 60]
+Moves: 2
+Buttons: [|DELETE|, |0|]
+Portal: None
+[[(|DELETE|, 0), (|0|, 0)], [(|DELETE|, 1), (|0|, 0)]]

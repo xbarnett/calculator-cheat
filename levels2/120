@@ -1,0 +1,6 @@
+Start: 17
+Goals: ['PE', 'MD', 'AS']
+Moves: 3
+Buttons: [|ABC|, |Reverse|, |+ 1|, |- 9|, |* 3|]
+Portal: None
+[[(|Reverse|, 0), (|- 9|, 0), (|ABC|, 0)], [(|* 3|, 0), (|+ 1|, 0), (|ABC|, 0)], [(|ABC|, 0)]]

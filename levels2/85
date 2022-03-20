@@ -1,0 +1,6 @@
+Start: 3540
+Goals: [400, 300]
+Moves: 3
+Buttons: [|ROUND|, |CUT 5|, |+ 10|]
+Portal: None
+[[(|CUT 5|, 0), (|+ 10|, 0), (|ROUND|, 2)], [(|ROUND|, 2), (|CUT 5|, 0)]]

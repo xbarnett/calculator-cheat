@@ -1,0 +1,6 @@
+Start: 352
+Goals: [44, 2000, 2500]
+Moves: 3
+Buttons: [|ROUND|, |SORT >|, |Reverse|, |4|]
+Portal: None
+[[(|ROUND|, 2), (|SORT >|, 0), (|4|, 0)], [(|SORT >|, 0), (|4|, 0), (|ROUND|, 3)], [(|Reverse|, 0), (|4|, 0), (|ROUND|, 2)]]

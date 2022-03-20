@@ -1,0 +1,6 @@
+Start: 505
+Goals: [5555]
+Moves: 2
+Buttons: [|Mirror|, [SHIFT]]
+Portal: None
+[[([SHIFT], 1), (|Mirror|, 0)]]

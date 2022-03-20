@@ -1,0 +1,6 @@
+Start: 2222
+Goals: [48, 480]
+Moves: 5
+Buttons: [[Lock], |CUT 2|, |/ 5|]
+Portal: None
+[[([Lock], 2), (|CUT 2|, 0), ([Lock], 2), (|/ 5|, 0), (|/ 5|, 0)], [([Lock], 3), (|CUT 2|, 0), ([Lock], 3), (|/ 5|, 0), (|/ 5|, 0)]]

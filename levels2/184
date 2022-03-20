@@ -1,0 +1,6 @@
+Start: 54
+Goals: [49, 11]
+Moves: 3
+Buttons: [[Lock], |SORT >|, |/ 5|]
+Portal: None
+[[(|SORT >|, 0), ([Lock], 1), (|/ 5|, 0)], [([Lock], 1), (|SORT >|, 0), (|/ 5|, 0)]]

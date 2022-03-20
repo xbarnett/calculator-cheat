@@ -1,0 +1,6 @@
+Start: 10
+Goals: [200]
+Moves: 2
+Buttons: [|ROUND|, |INSERT 5|]
+Portal: None
+[[(|INSERT 5|, 1), (|ROUND|, 2)]]

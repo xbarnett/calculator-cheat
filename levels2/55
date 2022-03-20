@@ -1,0 +1,6 @@
+Start: 121
+Goals: [9]
+Moves: 3
+Buttons: [|/ 9|, |DELETE|, |12 => 18|]
+Portal: None
+[[(|12 => 18|, 0), (|DELETE|, 2), (|/ 9|, 0)]]

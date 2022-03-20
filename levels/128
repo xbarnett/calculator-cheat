@@ -1,0 +1,6 @@
+Start: 13
+Goals: [112]
+Moves: 6
+Buttons: [|99 => 60|, |/ 3|, |Mirror|, |* 3|, |Shift >|]
+Portal: None
+[[(|Mirror|, 0), (|* 3|, 0), (|99 => 60|, 0), (|/ 3|, 0), (|Shift >|, 0), (|Shift >|, 0)]]

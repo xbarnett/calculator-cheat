@@ -1,0 +1,6 @@
+Start: 222
+Goals: [11, 1]
+Moves: 5
+Buttons: [[[+] 2], |INSERT 3|, |SUM|, |56 => 10|]
+Portal: None
+[[([[+] 2], 0), (|INSERT 5|, 0), (|SUM|, 0)], [([[+] 2], 0), (|SUM|, 0), (|INSERT 5|, 1), (|56 => 10|, 0), (|SUM|, 0)]]

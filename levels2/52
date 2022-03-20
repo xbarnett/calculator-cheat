@@ -1,0 +1,6 @@
+Start: 5
+Goals: [10]
+Moves: 3
+Buttons: [|* 4|, |* 7|, |DELETE|]
+Portal: None
+[[(|* 4|, 0), (|* 7|, 0), (|DELETE|, 1)]]

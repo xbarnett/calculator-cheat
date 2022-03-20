@@ -1,0 +1,6 @@
+Start: 23154
+Goals: [54321, 12345]
+Moves: 1
+Buttons: [|SORT >|, |SORT <|]
+Portal: None
+[[(|SORT <|, 0)], [(|SORT >|, 0)]]

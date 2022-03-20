@@ -1,0 +1,6 @@
+Start: 117
+Goals: ['SUB', 'TR', 'ACT']
+Moves: 4
+Buttons: [|ABC|, |+ 5|, |<<|, [_+ 6], |Reverse|]
+Portal: None
+[[([_+ 6], 1), (|Reverse|, 0), (|ABC|, 0)], [(|<<|, 0), (|+ 5|, 0), ([_+ 6], 1), (|ABC|, 0)], [(|ABC|, 0)]]

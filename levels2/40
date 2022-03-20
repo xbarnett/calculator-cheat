@@ -1,0 +1,6 @@
+Start: 7
+Goals: ['I', 'N', 'T']
+Moves: 3
+Buttons: [|ABC|, |- 2|]
+Portal: None
+[[(|- 2|, 0), (|- 2|, 0), (|ABC|, 0)], [(|- 2|, 0), (|ABC|, 0)], [(|ABC|, 0)]]

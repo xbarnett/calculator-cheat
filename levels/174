@@ -1,0 +1,6 @@
+Start: 12
+Goals: [23]
+Moves: 7
+Buttons: [|* 5|, |SUM|, |Store|, |Inv10|]
+Portal: None
+[[(|Store|, 1), (|Inv10|, 0), (|12|, 0), (|12|, 0), (|SUM|, 0)]]

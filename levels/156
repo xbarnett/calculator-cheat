@@ -1,0 +1,6 @@
+Start: 0
+Goals: [99]
+Moves: 3
+Buttons: [|1|, |Inv10|]
+Portal: None
+[[(|1|, 0), (|1|, 0), (|Inv10|, 0)]]

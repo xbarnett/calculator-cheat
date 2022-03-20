@@ -1,0 +1,6 @@
+Start: 14
+Goals: [7, 121, 111]
+Moves: 4
+Buttons: [|Mirror|, |1|, |SUM|]
+Portal: (0, 3)
+[[(|1|, 0), (|1|, 0), (|SUM|, 0)], [(|1|, 0), (|Mirror|, 0), (|SUM|, 0), (|1|, 0)], [(|Mirror|, 0), (|Mirror|, 0), (|SUM|, 0), (|1|, 0)]]

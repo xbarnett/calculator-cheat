@@ -1,0 +1,6 @@
+Start: 63
+Goals: [144]
+Moves: 3
+Buttons: [|Reverse|, |INSERT 1|, |+ 8|]
+Portal: None
+[[(|Reverse|, 0), (|INSERT 1|, 2), (|+ 8|, 0)]]

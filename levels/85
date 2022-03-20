@@ -1,0 +1,6 @@
+Start: 50
+Goals: [101]
+Moves: 5
+Buttons: [|1 => 10|, |+ 50|, |Reverse|, |5 => 1|]
+Portal: None
+[[(|+ 50|, 0), (|+ 50|, 0), (|Reverse|, 0), (|+ 50|, 0)]]

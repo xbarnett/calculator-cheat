@@ -1,0 +1,6 @@
+Start: 123
+Goals: [312, 231]
+Moves: 1
+Buttons: [[SHIFT]]
+Portal: None
+[[([SHIFT], 2)], [([SHIFT], 1)]]

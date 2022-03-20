@@ -1,0 +1,6 @@
+Start: 180
+Goals: [13, 8]
+Moves: 4
+Buttons: [|Inv10|, |SORT >|, |+ 2|, |Reverse|]
+Portal: None
+[[(|Inv10|, 0), (|SORT >|, 0), (|+ 2|, 0), (|SORT >|, 0)], [(|SORT >|, 0), (|+ 2|, 0), (|Inv10|, 0), (|SORT >|, 0)]]

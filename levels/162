@@ -1,0 +1,6 @@
+Start: 5
+Goals: [105]
+Moves: 5
+Buttons: [|* 3|, |/ 9|, |Store|, |Inv10|]
+Portal: None
+[[(|Store|, 1), (|5|, 0), (|* 3|, 0), (|Inv10|, 0), (|/ 9|, 0)]]

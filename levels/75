@@ -1,0 +1,6 @@
+Start: 0
+Goals: [-25]
+Moves: 5
+Buttons: [|+ 4|, |* 3|, |Reverse|, |+/-|]
+Portal: None
+[[(|+ 4|, 0), (|* 3|, 0), (|Reverse|, 0), (|+ 4|, 0), (|+/-|, 0)]]

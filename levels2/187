@@ -1,0 +1,6 @@
+Start: 35
+Goals: [13, 9]
+Moves: 4
+Buttons: [[Lock], |INSERT 7|, |SUM|]
+Portal: None
+[[([Lock], 0), (|INSERT 7|, 0), (|SUM|, 0)], [(|INSERT 7|, 0), ([Lock], 2), (|SUM|, 0), (|SUM|, 0)]]

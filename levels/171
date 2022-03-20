@@ -1,0 +1,6 @@
+Start: 34
+Goals: [9]
+Moves: 4
+Buttons: [|* 6|, |Inv10|, |<<|]
+Portal: None
+[[(|<<|, 0), (|* 6|, 0), (|Inv10|, 0), (|<<|, 0)]]

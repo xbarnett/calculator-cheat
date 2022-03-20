@@ -1,0 +1,6 @@
+Start: 2048
+Goals: [125]
+Moves: 3
+Buttons: [|SORT >|, |/ 2|]
+Portal: None
+[[(|/ 2|, 0), (|/ 2|, 0), (|SORT >|, 0)]]

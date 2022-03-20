@@ -1,0 +1,6 @@
+Start: 1975
+Goals: [2400, 7070]
+Moves: 3
+Buttons: [[Lock], |ROUND|, [_+ 5]]
+Portal: None
+[[([Lock], 2), (|ROUND|, 2), ([_+ 5], 2)], [([Lock], 1), (|ROUND|, 2), ([_+ 5], 3)]]

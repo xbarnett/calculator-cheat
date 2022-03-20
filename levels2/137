@@ -1,0 +1,6 @@
+Start: 201
+Goals: [1111, 1000]
+Moves: 4
+Buttons: [|Mirror|, |- 1|, |Reverse|, |CUT 2|]
+Portal: None
+[[(|CUT 2|, 0), (|Mirror|, 0), (|Mirror|, 0)], [(|Reverse|, 0), (|Mirror|, 0), (|- 1|, 0), (|CUT 2|, 0)]]

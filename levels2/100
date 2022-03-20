@@ -1,0 +1,6 @@
+Start: 2825
+Goals: ['EVEN', 'ODD']
+Moves: 3
+Buttons: [|ABC|, |SORT <|, |CUT 8|]
+Portal: None
+[[(|ABC|, 0)], [(|SORT <|, 0), (|CUT 8|, 0), (|ABC|, 0)]]
